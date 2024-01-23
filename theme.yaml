@@ -5,14 +5,14 @@ metadata:
 spec:
   displayName: 测试主题
   author:
-    name: halo-ddddev
+    name: halo-theme
     website: https://halo.run
   description: 一个新手的测试
   logo: https://halo.run/logo
-  website: https://github.com/halo-sigs/theme-foo
-  repo: https://github.com/halo-sigs/theme-foo.git
-  settingName: "theme-foo-setting"
-  configMapName: "theme-foo-configMap"
+  website: https://github.com/wertfss/halo_theme.git
+  repo: https://github.com/wertfss/halo_theme.git
+  settingName: "halo-theme"
+  configMapName: "halo-themeMap"
   customTemplates:
     post:
       - name: 文档
