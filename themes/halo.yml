@@ -1,0 +1,4 @@
+name: My Custom Theme
+author: lydong
+version: 1.0.0
+layout: ../../src/views/HomeView.vue
